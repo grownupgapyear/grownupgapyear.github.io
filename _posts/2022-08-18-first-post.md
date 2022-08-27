@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We're Live!"
-date:   2022-08-18 20:12:09 -0600
+date:   2022-08-18 14:12:09
 categories: [cats, denver]
 ---
 

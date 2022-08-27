@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "And They're Off!"
-date:   2022-08-26 19:30:00 -0600
+date:   2022-08-26 13:30:00
 categories: [cats, denver, airport]
 ---
 
