@@ -2,7 +2,7 @@
 layout: post
 title:  "And They're Off!"
 date:   2022-08-26 13:30:00
-categories: [cats, denver, airport]
+tags: [cats, denver, airport]
 ---
 
 Lots of changes today: 
@@ -21,3 +21,4 @@ Jammerz in the window:
 The master plan:
 ![the master plan](https://filedn.com/laDhrvFbMCaQeUUeqc8SpMB/2022-08-26/20220825_182158.jpg)
 
+edit: Big shoutout to Scoot for taking time away from his busy new job, helping us load his car to the brim with luggage, and whisking us away to the airport. You da best!
