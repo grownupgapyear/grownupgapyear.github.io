@@ -29,7 +29,7 @@ Even rain doesn't keep the curiousity away:
 
 At this point I'm feeling great, save for an ear infection which I started antibiotics for yesterday
 and am already feeling them kickin some butt. K is a few days behind me, battling a cough and some
-fatigue but still feeling considerably better. It's been an interesting week and a half, but I'm
+fatigue but still feeling better (K-Edit: but mostly just getting better at how bad she felt). It's been an interesting week and a half, but I'm
 happy to say we have finally started venturing out!
 
 
@@ -70,7 +70,9 @@ Funny pidge:
 
 
 Watched: The Sandman (netflix)
+
 NW Read: A swim in a pond in the rain (George Saunders)
+
 K read: Men explain things to me (Rebecca Solnit); Happy-Go-Lucky (David Sedaris); The Nineties
 (Chuck Klosterman)
 
