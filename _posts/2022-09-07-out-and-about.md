@@ -73,7 +73,7 @@ Watched: The Sandman (netflix)
 
 NW Read: A swim in a pond in the rain (George Saunders)
 
-K read: Men explain things to me (Rebecca Solnit); Happy-Go-Lucky (David Sedaris); The Nineties
+K read: Men Explain Things to Me (Rebecca Solnit); Happy-Go-Lucky (David Sedaris); The Nineties
 (Chuck Klosterman)
 
 
