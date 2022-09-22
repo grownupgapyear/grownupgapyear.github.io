@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Search for Free WiFi"
-date:   2022-09-09 20:12:09 -0600
+date:   2022-09-09 12:00:00
 tags: [cats, paris, museum, garden]
 ---
 
