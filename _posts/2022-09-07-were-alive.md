@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We're alive!"
+title:  "We're Alive!"
 date:   2022-09-07 20:00 
 tags: [cats, Paris]
 ---
