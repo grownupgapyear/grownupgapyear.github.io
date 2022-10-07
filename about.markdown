@@ -20,8 +20,11 @@ You can find the source code for Jekyll at GitHub:
 ---
 Blag updates:
 
+2022-09-27 - a 40 image post without populated alt text was still a bit of a manual slog. New
+workflow has alt text added to filenames and parsed out during markdown generation script. 
+
 2022-09-26 - K is kind enough to offer proofreading/editorial help; new QC workflow established for
-posts which should make things look more polished going forward. This started with the post on
+posts which should make things look more polished. This started with the post on
 2022-09-11 and will be used moving forward ( as well as retroactively reviewing existing posts once
 I get around to cleaning them up ).
 
