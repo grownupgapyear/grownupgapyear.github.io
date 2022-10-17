@@ -33,7 +33,7 @@ The tagline "fabulous eggs by fabulous birds" gets me good.
 
 [![eggs1][eggs1_image_resized]][eggs1_image]{:target="_blank"}
 
-
+<br><br>
 On Sunday, I took my first stroll through Kensington Gardens on the way to a home goods store to grab some other essentials. I only walked down one of the main thoroughfares, but the scale of the park and the feel of the city is really starting to sink in. Tons of people walking and biking, dogs chasing squirrels, a big ol' pond full of all sorts of birds, Kensington Palace with its statue of Queen Victoria and a garden dedicated to Princess Diana.
 
 I took another stroll around the neighborhood on Monday and found some excellent ninja turtle art:
@@ -44,7 +44,7 @@ And made a friend!
 
 [![straymeow][straymeow_image_resized]][straymeow_image]{:target="_blank"}
 
-
+<br><br>
 Our first adventure around the pond was a lot of fun! We spotted some swan butts: 
 
 [![swanbutt][swanbutt_image_resized]][swanbutt_image]{:target="_blank"}
@@ -57,6 +57,7 @@ Sleepy swan:
 
 [![sleepyswan][sleepyswan_image_resized]][sleepyswan_image]{:target="_blank"}
 
+<br>
 
 We lucked out and found an open bench where we sat and read for a few minutes. An older couple was feeding the birds just down the way. 
 
@@ -70,18 +71,20 @@ And I made another friend!
 
 [![friend][friend_image_resized]][friend_image]{:target="_blank"}
 
+<br><br>
 We stopped in for a pint before heading home and ran across this incredible old pizza hut window art:
 
 [![pizzahut1][pizzahut1_image_resized]][pizzahut1_image]{:target="_blank"}
 
 [![pizzahut2][pizzahut2_image_resized]][pizzahut2_image]{:target="_blank"}
 
+<br><br>
 All in all it was an excellent day! Missy V even graced me with a brief cuddle session before bed.
 
 
 [![sleepymv][sleepymv_image_resized]][sleepymv_image]{:target="_blank"}
 
-
+<br>
 Thanks for reading - until next time!
 
 
