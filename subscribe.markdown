@@ -24,7 +24,7 @@ to provide feedback, please don't hesitate to reach out via ( grownupgapyear@gug
 	#mergeRow-gdpr fieldset label {font-weight: normal;}
 	#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
 	#mc_embed_signup .button:hover {background-color: #0075ff;}
-	#mc_embed_signup .button {background-color: #bfdcff;}
+	#mc_embed_signup .button {background-color: #0075ff;}
 </style>
 <div id="mc_embed_signup">
     <form action="https://blog.us13.list-manage.com/subscribe/post?u=7ad1869640fb5284b73d04dde&amp;id=cc441a0505&amp;v_id=4683&amp;f_id=000cc0e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
