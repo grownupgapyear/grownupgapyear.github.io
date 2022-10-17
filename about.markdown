@@ -4,21 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
----
 Blag updates:
+
+2022-10-17 - subscribe page is live!
+
+2022-10-13 - new domain acquired and dns configured; email notification system nearly done.
+new iteration of markdown generator script to make use of references. not at all necessary, but
+slightly cleaner.
 
 2022-09-27 - a 40 image post without populated alt text was still a bit of a manual slog. New
 workflow has alt text added to filenames and parsed out during markdown generation script. 

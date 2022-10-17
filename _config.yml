@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Grown-up Gap Year
-email: grownupgapyear@proton.me
+email: grownupgapyear@gugy.blog
 description: >-
   Funemployed 2022-2023 traveling europe with our two cats!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -63,5 +63,6 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - subscribe.markdown
   - about.markdown
   - tags.markdown

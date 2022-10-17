@@ -2,7 +2,7 @@
 layout: post
 title:  "We're Alive!"
 date:   2022-09-07 20:00 
-tags: [cats, Paris]
+tags: [cats, paris]
 ---
 
 Apologies for both the lack of posting and for this dump of info all at once. 
