@@ -5,7 +5,7 @@ date:   2022-09-24 12:00:00
 tags: [ london, pubs, art ]
 ---
 
-K, still sick,has been trying to take it easy, but you can only be cooped up in an apartment for so long! We took a short jaunt outdoors to check out an art exhibit going away at the end of the month, "Tiger, Journey, Love" by South Korean artist Jeong Hwa. Big inflatable fruits bouncing around in the wind:
+K, still sick, has been trying to take it easy, but you can only be cooped up in an apartment for so long! We took a short jaunt outdoors to check out an art exhibit going away at the end of the month, "Tiger, Journey, Love" by South Korean artist Jeong Hwa. Big inflatable fruits bouncing around in the wind:
 
 [![fruits][fruits_image_resized]][fruits_image]{:target="_blank"}
 
