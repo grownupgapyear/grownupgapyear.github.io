@@ -15,9 +15,9 @@ Crossing over the Serpentine into Hyde Park, I was tickled by a giant sandy aven
 
 Two perfect examples of why I love walking around so much - there's something extraordinary about happening upon these things:
 
-A bunch of noise coming from the edge of the park piqued my curiosity, and, after a small detour, I stumbled into Speaker's Corner - a pretty famous open-air public speaking area ( [wiki link](https://en.wikipedia.org/wiki/Speakers%27_Corner#Hyde_Park){:target="_blank"} ). 
++ A bunch of noise coming from the edge of the park piqued my curiosity, and, after a small detour, I stumbled into Speaker's Corner - a pretty famous open-air public speaking area ( [wiki link](https://en.wikipedia.org/wiki/Speakers%27_Corner#Hyde_Park){:target="_blank"} ). 
 
-After crossing the street to check out the Marble Arch, I just happened to be in the right spot at the right time to experience the post UK Arbaeen Procession gathering. Arbaeen doesn't get much western media coverage, and, admittedly, I am woefully ignorant of middle eastern culture in general, so I had to look it up afterwards (I couldn't tell exactly what was going on and didn't want to be disrespectful). The procession is a short walk to emulate the 80-kilometer walk from Najaf to Karbala in Iraq that happens every year. 
++ After crossing the street to check out the Marble Arch, I just happened to be in the right spot at the right time to experience the post UK Arbaeen Procession gathering. Arbaeen doesn't get much western media coverage, and, admittedly, I am woefully ignorant of middle eastern culture in general, so I had to look it up afterwards (I couldn't tell exactly what was going on and didn't want to be disrespectful). The procession is a short walk to emulate the 80-kilometer walk from Najaf to Karbala in Iraq that happens every year. 
 
 
 I made it to Selfridges, a huge upscale department store, where I promptly got lost trying to find the Nespresso kiosk. It was a good time casually browsing the wide range of wares until I finally found my coffee fix hiding in a far corner just out of view.  I nabbed three boxes of pods and got to scootin'.
