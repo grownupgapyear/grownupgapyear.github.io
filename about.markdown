@@ -6,6 +6,9 @@ permalink: /about/
 
 Blag updates:
 
+2022-12-01 - starting with the puppy yoga post (2022-10-01), we now have gifs AND embedded videos! praise praise!
+This also marks the swap to weekly posts in an attempt to make up the 2month gap.
+
 2022-10-17 - subscribe page is live!
 
 2022-10-13 - new domain acquired and dns configured; email notification system nearly done.
