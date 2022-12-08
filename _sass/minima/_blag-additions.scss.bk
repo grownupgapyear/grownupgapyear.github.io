@@ -2,20 +2,17 @@
  * additional styles
  */
 
-.post-content {
-  display: flex;
-  flex-direction: column;
-}
-
-
 .smallThumbs {
   width: 48%;
   float: left;
   padding: 1%;
+  display: block;
+  place-items: center;
 }
 
-img,video{
+img {
   max-width: 96%;
+  vertical-align: middle;
   padding-bottom: 5px;
   padding-left: 2%;
 }

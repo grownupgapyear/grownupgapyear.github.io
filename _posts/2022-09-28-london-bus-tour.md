@@ -105,7 +105,7 @@ We also found these absurdly cute chocolate treats.
 It turns out that there's a whole line of similar products with goofy mascots - check them out [here.](https://www.waitrose.com/ecom/shop/browse/groceries/waitrose_brands/heston_from_waitrose){:target="_blank"}
 
 <br>
-
+  
 ### Day two
 
 We passed through Paddington on the way to the other bus loop.
