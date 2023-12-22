@@ -267,7 +267,8 @@ The sights from the boat were lovely, but poor K was struck by a coughing fit mi
 
 [![eu-parliament][eu-parliament_image_resized]][eu-parliament_image]{:target="_blank"}
 
----
+--- 
+<br>
 
 Thoroughly exhausted, we grabbed our luggage and headed towards the train station. 
 
@@ -341,6 +342,10 @@ A snippet from a book full of silly animals.
 
 [![silly-animals][silly-animals_image_resized]][silly-animals_image]{:target="_blank"}
 
+A bonus night photo of the cathedral
+
+[![k-church-at-night][k-church-at-night_image_resized]{:.fullThumbs}][k-church-at-night_image]{:target="_blank"}
+
 --- 
 <br>
 
@@ -349,9 +354,6 @@ And finally, our haul!
 [![haul-pt2][haul-pt2_image_resized]{:.smallThumbs}][haul-pt2_image]{:target="_blank"}
 [![haul-pt3][haul-pt3_image_resized]{:.smallThumbs}][haul-pt3_image]{:target="_blank"}
 
-Plus a bonus night photo of the cathedral
-
-[![k-church-at-night][k-church-at-night_image_resized]][k-church-at-night_image]{:target="_blank"}
 
 
 See you next time!
